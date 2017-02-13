@@ -1,13 +1,13 @@
 # Intégration "Privy"
 
-Pour cette exercice, vous avez uniquement une maquette sans les mesures.
+Pour cet exercice, vous avez uniquement une maquette sans les mesures.
 
-Vous devez donc effectuez les mesures vous-mêmes à l'aide de Gimp et de son outil "mesure". La maquette étant en 100% vous aurez exactement la taille de vos blocs et élements.
+Vous devez donc effectuez les mesures vous-même à l'aide de Gimp et de son outil "mesure". La maquette étant en 100% vous aurez exactement la taille de vos blocs et élements.
 
 Vous devez également utilisez Gimp pour trouver les couleurs des éléments à l'aide de l'outil "pipette"
 
 Zone de travail :
-- La zone de travail principal fais 1200px de large et est centré dans la page.
+- La zone de travail principal fait 1200px de large et est centrée dans la page.
 - Le fond du reste de l'écran est gris foncé (#202020).
 
 Fonts :
@@ -21,7 +21,7 @@ Navigation :
 - bonus : faire un rollover bleu (comme le premier lien)
 
 Articles :
-- Sous l'image principale, il y a une liste d'article daté. Le titre doit être un lien cliquable.
+- Sous l'image principale, il y a une liste d'articles datés. Le titre doit être un lien cliquable.
 
 Remarques :
 - Comme d'habitude vous pouvez utiliser du faux texte partout (http://hipsum.co/)
